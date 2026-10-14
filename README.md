@@ -6,3 +6,5 @@ HomeScreen.Ui : content://media/external/downloads/12110
 Satellite.Ui : content://media/external/downloads/12111
 
 ChatBotAi.Ui : content://media/external/downloads/12112
+
+SignalCard.Ui : content://media/external/downloads/12113

@@ -10,3 +10,5 @@ ChatBotAi.Ui : content://media/external/downloads/12112
 SignalCard.Ui : content://media/external/downloads/12113
 
 SignalCard.Ui2 : content://media/external/downloads/12114
+
+HistoryPet.Ui : content://media/external/downloads/12115
